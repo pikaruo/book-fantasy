@@ -17,6 +17,8 @@ MonoBehaviour:
     - 25d85cbf66a570e4db7710eba171b86f
     - 104b0d14871d44f4881963af94f49350
     - 
+    - 0bf53aae9bbc9af4fa49963f7aafbeb8
+    - b855c12b06bfaa34ebc0b9d406316dc9
     values:
     - goDatasByGlobalId:
         keys:
@@ -42,3 +44,27 @@ MonoBehaviour:
     - goDatasByGlobalId:
         keys: []
         values: []
+    - goDatasByGlobalId:
+        keys: []
+        values: []
+    - goDatasByGlobalId:
+        keys:
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-2137762432-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-1249466947-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-1781882694-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-676202951-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-684857320-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-1588404347-0
+        values:
+        - iColor: 0
+          icon: Terrain Icon
+        - iColor: 0
+          icon: Camera Icon
+        - iColor: 0
+          icon: Canvas Icon
+        - iColor: 0
+          icon: AudioListener Icon
+        - iColor: 0
+          icon: AudioSource Icon
+        - iColor: 0
+          icon: AudioSource Icon
