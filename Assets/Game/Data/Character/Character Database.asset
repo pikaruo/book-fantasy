@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8ccf58966a0efe4d8d27cd1a5ce3871, type: 3}
+  m_Name: Character Database
+  m_EditorClassIdentifier: 
+  characters:
+  - characterSprite: {fileID: 21300000, guid: 3e4bce5241c7642d392b39886c15f562, type: 3}
+    characterName: Archer
+    attack: 10
+    deffense: 3
+    speed: 2
+    type: Brust
+    skillOne: Fire Arrow
+    skillTwo: Rain Arrow
+    skillThree: Divine Arrow
+    Ability: Double Jump
+    attackType: Range
+  - characterSprite: {fileID: 21300000, guid: 695bf1a0f9b004b57b57a6b3f78e4322, type: 3}
+    characterName: Iron Goblin
+    attack: 3
+    deffense: 8
+    speed: 4
+    type: Tank
+    skillOne: Barrier Shield
+    skillTwo: Shield Bash
+    skillThree: Area Of Shield
+    Ability: Back Damage
+    attackType: Male
+  - characterSprite: {fileID: 21300000, guid: f802ceda35f5c4662a240c6ceef56a64, type: 3}
+    characterName: Cannon Pig
+    attack: 13
+    deffense: 5
+    speed: 1
+    type: Brust
+    skillOne: Iron Shoot
+    skillTwo: Iron Brust
+    skillThree: Iron Rain
+    Ability: Attack Up
+    attackType: Range
+  - characterSprite: {fileID: 21300000, guid: ee6c8f37bd0f143a89513cadc662c0b0, type: 3}
+    characterName: Fire Cannon
+    attack: 10
+    deffense: 5
+    speed: 1
+    type: DOT
+    skillOne: Fire Ball
+    skillTwo: Double Fire
+    skillThree: Fire Rain
+    Ability: DOT
+    attackType: Range
+  - characterSprite: {fileID: 21300000, guid: 3f423f18bae754a7dbae893a08d00eef, type: 3}
+    characterName: Wood Cannon
+    attack: 5
+    deffense: 1
+    speed: 8
+    type: Support
+    skillOne: Heal Ball
+    skillTwo: Root Cannon
+    skillThree: Heal Wood
+    Ability: Stun
+    attackType: Range
+  - characterSprite: {fileID: 21300000, guid: 19ede287137504ab8ab51ea773c382b2, type: 3}
+    characterName: Dragon
+    attack: 15
+    deffense: 8
+    speed: 5
+    type: DOT
+    skillOne: Fire Bread
+    skillTwo: Fire Dive
+    skillThree: Summon Comet
+    Ability: DOT
+    attackType: Range
+  - characterSprite: {fileID: 21300000, guid: 03d60d02db2f54c029a14fa2d2ce097b, type: 3}
+    characterName: Lizard
+    attack: 5
+    deffense: 8
+    speed: 8
+    type: DOT
+    skillOne: Poison Claw
+    skillTwo: Poison Bit
+    skillThree: Poison Bread
+    Ability: Attack Speed
+    attackType: Male
+  - characterSprite: {fileID: 21300000, guid: 61d43c9213e96492da5161e16d57dfc9, type: 3}
+    characterName: Cerberus
+    attack: 10
+    deffense: 5
+    speed: 7
+    type: Brust
+    skillOne: Double Bit
+    skillTwo: Double Claw
+    skillThree: Double Bread
+    Ability: Double Attack
+    attackType: Male

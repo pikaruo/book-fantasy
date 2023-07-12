@@ -52,11 +52,17 @@ MonoBehaviour:
         - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-2137762432-0
         - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-1249466947-0
         - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-1781882694-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-1705531148-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-581956606-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-511271887-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-344410138-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-1323203481-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-2023039658-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-269540808-0
         - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-676202951-0
         - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-684857320-0
         - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-1588404347-0
-        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-1705531148-0
-        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-581956606-0
+        - GlobalObjectId_V1-2-b855c12b06bfaa34ebc0b9d406316dc9-1859730937-0
         values:
         - iColor: 0
           icon: Terrain Icon
@@ -67,10 +73,22 @@ MonoBehaviour:
         - iColor: 0
           icon: cs Script Icon
         - iColor: 0
-          icon: AudioClip Icon
-        - iColor: 0
-          icon: AudioSource Icon
+          icon: cs Script Icon
         - iColor: 0
           icon: cs Script Icon
+        - iColor: 0
+          icon: Folder Icon
+        - iColor: 0
+          icon: Folder Icon
+        - iColor: 0
+          icon: Folder Icon
+        - iColor: 0
+          icon: cs Script Icon
+        - iColor: 0
+          icon: cs Script Icon
+        - iColor: 0
+          icon: AudioClip Icon
+        - iColor: 0
+          icon: AudioListener Icon
         - iColor: 0
           icon: cs Script Icon

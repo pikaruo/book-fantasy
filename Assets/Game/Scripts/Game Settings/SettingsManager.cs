@@ -5,15 +5,13 @@ using UnityEngine.UI;
 
 public class SettingsManager : MonoBehaviour
 {
-    public GameObject[] switchMusicMute; // * 0 = on, 1 = off
-    public GameObject[] switchSfxMute; // * 0 = on, 1 = off
 
     [Header("System Musik")]
-    public Button muteMusikButton;
+    public GameObject[] switchMusicMute; // * 0 = on, 1 = off
     public Slider volumeMusikSlider;
 
     [Header("System SFX")]
-    public Button muteSFXButton;
+    public GameObject[] switchSfxMute; // * 0 = on, 1 = off
     public Slider volumeSFXSlider;
 
     private void Start()
@@ -123,4 +121,10 @@ public class SettingsManager : MonoBehaviour
     }
 
     #endregion
+
+    public void DeleteData()
+    {
+        PlayerPrefs.DeleteAll();
+        Debug.Log("All Data PlayerPrefs has deleted!");
+    }
 }
